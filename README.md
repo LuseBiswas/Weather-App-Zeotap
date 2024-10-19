@@ -82,7 +82,7 @@ For each received weather update:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/username/weather-monitoring-system.git
+   git clone https://github.com/username/Weather-App-Zeotap.git
    cd weather-wen-app/frontend
    ```
 
